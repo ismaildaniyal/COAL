@@ -8,8 +8,6 @@ This project is an implementation of the classic **Snake Game** using **x86 Asse
 - **Low-Level Programming**: Efficiently coded using x86 Assembly, demonstrating the power and complexity of low-level programming.
 - **Console-Based Interface**: A simple and lightweight interface that runs directly in the console.
 
-## 📸 Screenshots
-*(Add screenshots here if available to showcase the game)*
 
 ## 🛠️ How to Run
 
